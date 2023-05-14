@@ -38,12 +38,12 @@ https://matchthemes.com
 */
 
 :root {  
-	--body-font: Open Sans, sans-serif;
+	--body-font: 'Lato', sans-serif;
 	--body-color: #858585;
 	--body-background: #ffffff;   
 	--body-font-size: 16px;   
 	--body-line-height: 1.7;
-	--headings-font: Cormorant, serif;
+	--headings-font: 'Livvic', sans-serif;
 	--headings-color: #151515; 
 	--primary-color: #8bb8c1;
 	--extra-color1: #acdae2;
